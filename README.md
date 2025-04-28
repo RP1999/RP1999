@@ -22,7 +22,7 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Ranidu Promod" target="_blank">
+  <a href="https://linkedin.com/in/Ranidu Promod" target="[_blank](https://www.linkedin.com/in/ranindu-pramod/)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
