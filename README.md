@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning HTML,CSS,PHP,JavaScript & Java
 - 💬 Ask me about HTML,CSS,PHP,JavaScript
 - 📫 How to reach me **promoranidu@gmail.com**
-- ⚡I like playing video games,watching movies and develop websites
+- ⚡I like playing video games,watching movies and developing websites
 
 
 <h3 align="left">Connect with me:</h3>
