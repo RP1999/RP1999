@@ -1,42 +1,79 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120px">
   
-  # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ranidu Pramod
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Ranidu Pramod!
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+WebSite+Designer...;I'm+from+SriLanka)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0FACF7&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%26+Designer;Frontend+%26+Backend+Enthusiast;Building+amazing+digital+experiences)](https://git.io/typing-svg)
   
-  <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="650px">
+  <a href="https://linkedin.com/in/ranidu-promod" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://instagram.com/promoranidu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+  <a href="https://facebook.com/ranidu.promod" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
+  </a>
+  <a href="mailto:promoranidu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
 </div>
 
-<br>
+---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-- 🌱 I'm currently learning **HTML, CSS, PHP, JavaScript & Java**
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript**
-- 📫 How to reach me: **promoranidu@gmail.com**
-- ⚡ I like playing video games, watching movies and developing websites
+I'm a passionate web developer and designer from Sri Lanka, dedicated to creating beautiful and functional websites. I thrive on turning complex problems into elegant solutions through clean code and intuitive design.
 
-<br>
+- 🔭 I'm currently working on **enhancing my web development portfolio**
+- 🌱 I'm currently mastering **HTML, CSS, PHP, JavaScript & Java**
+- 👨‍💻 All of my projects are available at [my portfolio website](https://yourportfolio.com) *(coming soon)*
+- 💬 Ask me about **web design, frontend development, or UI/UX principles**
+- 📫 Reach me at: **promoranidu@gmail.com**
+- ⚡ Fun fact: **I love playing video games, watching movies, and exploring new web technologies**
 
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/Ranidu Promod" target="[_blank](https://www.linkedin.com/in/ranindu-pramod/)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/promoranidu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/c/Ranidu Promod" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
-  </a>
-</p>
-
-<br>
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+  
+  <p>Thank you for visiting my profile! Let's connect and build something amazing together! 🚀</p>
+  
+  <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="400px">
 </div>
