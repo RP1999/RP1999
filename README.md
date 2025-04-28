@@ -5,13 +5,13 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0FACF7&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%26+Designer;Frontend+%26+Backend+Enthusiast;Building+amazing+digital+experiences)](https://git.io/typing-svg)
   
-  <a href="https://linkedin.com/in/ranidu-promod" target="_blank">
+  <a href="https://www.linkedin.com/in/ranindu-pramod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://instagram.com/promoranidu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
-  <a href="https://facebook.com/ranidu.promod" target="_blank">
+  <a href="https://www.facebook.com/ranidu.promod.7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
   </a>
   <a href="mailto:promoranidu@gmail.com">
