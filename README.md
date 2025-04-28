@@ -27,7 +27,6 @@ I'm a passionate web developer and designer from Sri Lanka, dedicated to creatin
 
 - 🔭 I'm currently working on **enhancing my web development portfolio**
 - 🌱 I'm currently mastering **HTML, CSS, PHP, JavaScript & Java**
-- 👨‍💻 All of my projects are available at [my portfolio website](https://yourportfolio.com) *(coming soon)*
 - 💬 Ask me about **web design, frontend development, or UI/UX principles**
 - 📫 Reach me at: **promoranidu@gmail.com**
 - ⚡ Fun fact: **I love playing video games, watching movies, and exploring new web technologies**
@@ -40,6 +39,12 @@ I'm a passionate web developer and designer from Sri Lanka, dedicated to creatin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
