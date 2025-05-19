@@ -57,8 +57,8 @@ I'm a passionate web developer and designer from Sri Lanka, dedicated to creatin
   <a href="https://github.com/RP1999/Task-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Task-Manager&theme=radical" />
   </a>
-  <a href="https://github.com/RP1999/Cooking-skill-share-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Cooking-skill-share-platform&theme=radical" />
+  <a href="https://github.com/RP1999/Car-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Car-Game&theme=radical" />
   </a>
 </div>
 
