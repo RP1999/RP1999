@@ -1,119 +1,88 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120px">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120px" alt="Developer Icon" />
+
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there, I'm <span style="color:#0FACF7;font-weight:bold;">Ranidu Pramod</span>!
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Ranidu Pramod!
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0FACF7&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Designer;Frontend+%26+Backend+Enthusiast;Building+amazing+digital+experiences;Turning+ideas+into+reality)](https://git.io/typing-svg)
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C873&vCenter=true&width=700&lines=💻+Web+Developer+%26+Designer;⚡+Full-Stack+Explorer;🌱+Always+Learning+Something+New;🎨+Transforming+Ideas+into+Digital+Realities)](https://git.io/typing-svg)
+
   <a href="https://www.linkedin.com/in/ranindu-pramod/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/promodranidu/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/ranidu.promod.7" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:promoranidu@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%">
-</div>
+---
 
-## 💫 About Me
-
-<p align="center"><img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" /></p>
-
-I'm a passionate web developer and designer from Sri Lanka, dedicated to creating beautiful and functional websites. I thrive on turning complex problems into elegant solutions through clean code and intuitive design.
-
-- 🔭 I'm currently working on **enhancing my web development portfolio**
-- 🌱 I'm currently mastering **HTML, CSS, PHP, JavaScript & Java**
-- 💬 Ask me about **web design, frontend development, or UI/UX principles**
-- 📫 Reach me at: **promoranidu@gmail.com**
-- ⚡ Fun fact: **I love playing video games, watching movies, and exploring new web technologies**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%">
-</div>
-
-## 🛠️ Tech Stack
-
-<h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=900&color=0FACF7&vCenter=true&width=700&lines=Welcome+to+my+digital+space!+;Let%E2%80%99s+build+the+future+together+%F0%9F%9A%80" alt="Welcome Typing SVG" />
 </p>
 
-<h3 align="center">🧰 Frameworks & Libraries</h3>
+---
+
+## 🧑‍💻 About Me
+
+✨ Hi! I'm a creative web developer and designer from Sri Lanka.  
+I love building stunning, user-centered websites & apps that make a difference.
+
+- 🔥 Passionate about transforming ideas into digital solutions
+- 🚀 Always experimenting with new frameworks and tools
+- 🤝 Love collaborating on open-source and community projects
+- 💡 Inspired by beautiful design, clean code, and problem-solving
+
+---
+
+## 🛠️ My Toolbox
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,cpp,c,mongodb,express,react,nodejs,bootstrap,figma,git,github,vscode" height="48" />
 </p>
 
-<h3 align="center">🗄️ Databases & Design Tools</h3>
+---
+
+## 🚩 Featured Projects
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-</p>
-
-<h3 align="center">🔧 Development Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%">
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
   <a href="https://github.com/RP1999/Task-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Task-Manager&theme=tokyonight&bg_color=0D1117&border_color=00AAFF&show_icons=true&icon_color=00AAFF&text_color=FFFFFF&title_color=00AAFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Task-Manager&theme=radical" alt="Task Manager" />
   </a>
   <a href="https://github.com/RP1999/Car-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Car-Game&theme=tokyonight&bg_color=0D1117&border_color=00AAFF&show_icons=true&icon_color=00AAFF&text_color=FFFFFF&title_color=00AAFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RP1999&repo=Car-Game&theme=radical" alt="Car Game" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%">
-</div>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117&border_color=00AAFF&icon_color=00AAFF&text_color=FFFFFF&title_color=00AAFF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&background=0D1117&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00AAFF&sideLabels=00AAFF&dates=FFFFFF" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RP1999&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RP1999&layout=compact&theme=radical" alt="Top Languages" height="170">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00AAFF&text_color=FFFFFF&title_color=00AAFF" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RP1999&theme=radical" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3aceafbf-f41e-4650-8701-4e8c2af6338d.gif" width="100%">
-</div>
+---
+
+## 🌱 Fun Facts
+
+- 🎮 Gamer by night, coder by day
+- 🍿 Movie buff & tech explorer
+- 📚 Lifelong learner, always up for a new challenge
+- 🌏 Let’s connect and create something amazing together!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=00AAFF&style=for-the-badge" alt="profile views">
-  
-  <p>Thank you for visiting my profile! Let's connect and build something amazing together! 🚀</p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <img src="https://komarev.com/ghpvc/?username=RP1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+  <br>
+  <b>Thanks for stopping by! 🚀</b>
+  <br>
+  <img src="https://github.com/VishvaAloka/VishvaAloka/assets/144552160/fac3bb08-731f-4725-bcd0-7d2540aa18df" width="400px" alt="Thank You">
 </div>
